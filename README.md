@@ -17,6 +17,9 @@ Requires:
 ### Processes included with this workflow 
 
 #### Combine Rasters into Mosaic
+
+based on tutorial from this medium article: [How to Mosaic/Merge Raster Data in Python](https://medium.com/spatial-data-science/how-to-mosaic-merge-raster-data-in-python-fb18e44f3c8)
+
 ##### TO DO
   - Ryan to fix errors
   - untitled jupyter notebook - rename Combine Rasters into Mosaic when bugs are fixed
