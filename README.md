@@ -20,3 +20,9 @@ Requires:
 ##### TO DO
   - Ryan to fix errors
   - untitled jupyter notebook - rename Combine Rasters into Mosaic when bugs are fixed
+
+### Processes to include:
+
+#### Getting Data from Cyverse
+#### Exporting Data to Cyverse
+#### Other suggestions?
