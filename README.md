@@ -6,6 +6,9 @@ Workflows for processing rasters in python for the ATUR Project
 
 Requires:
  - Github Account
+
+
+I recommend cloneing this repo, and going through the steps to Learn basic github [Github Basic Skills](https://github.com/Ryan3Lima/skills-introduction-to-github)
  - Github Desktop
  - Anaconda
  - conda environment with python 3.9
