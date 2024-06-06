@@ -1,6 +1,24 @@
 # ATUR_Python_Geoprocessing
 
-This Repository is intended to hold juptyer notebooks or google Colab notebooks that can serve as guides for processing data related to the Arizona Tri-University Recharge Project
+This Repository is intended to hold juptyer notebooksthat can serve as guides for processing data related to the Arizona Tri-University Recharge Project
+
+To follow along with these exercises it is recommended that you do the following:
+- Create a github account
+- Download Github Desktop
+- Download Anaconda
+- Clone this repository onto your computer
+- Using Anaconda Prompt, navigate to the directory containing the cloned repository (~user/documents/github/ATUR_Python_Geoprocessing)
+  '''
+  cd ~user/documents/github/ATUR_Python_Geoprocessing
+  '''
+  
+- Clone the Anaonda environment on your computer
+'''
+conda create --clone environment_name.yml --name environment name
+'''
+- activate the conda environment
+- navigate to the notebooks directory
+-  
 
 ### Basics:
 
@@ -8,7 +26,6 @@ This Repository is intended to hold juptyer notebooks or google Colab notebooks 
 ##### What is Github?
 Github is a web-based platform used for version control and collaborative software development. It primarily hosts repositories for storing and managing code, making it easier for developers to work together on projects. 
 
-#### Google Colab 
 #### Juptyer Notebooks
 ### Setup 1 - Jupyter Notebooks
 
